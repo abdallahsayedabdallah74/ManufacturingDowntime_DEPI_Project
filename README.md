@@ -151,7 +151,7 @@ Key analysis performed:
 
 ---
 
-##💡 Business Questions:
+## 💡 Business Questions:
 - Which production line has the highest downtime?
 - Which downtime factors occur most frequently?
 - Which products experience the highest downtime?
